@@ -1,0 +1,6 @@
+.DS_Store
+.env
+node_modules/
+static/.cache.json
+package-lock.json
+npm-debug.log*

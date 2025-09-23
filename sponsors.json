@@ -1,0 +1,226 @@
+[
+  {
+    "name": "Polar",
+    "login": "polarsource",
+    "avatar": "https://avatars.githubusercontent.com/u/105373340?s=200&v=4",
+    "amount": 100,
+    "link": "https://polar.sh/",
+    "org": true
+  },
+  {
+    "name": "Auth0-Developers",
+    "login": "Auth0-Developers",
+    "avatar": "https://avatars.githubusercontent.com/u/70178963?u=c6965f4328bbf6edb2e20ff3492d7c73008daac7&v=4",
+    "amount": 100,
+    "link": "https://github.com/Auth0-Developers",
+    "org": false
+  },
+  {
+    "name": "Codeureuses en Liberté",
+    "login": "CodeursenLiberte",
+    "avatar": "https://avatars.githubusercontent.com/u/35535187?v=4",
+    "amount": 70,
+    "link": "https://github.com/CodeursenLiberte",
+    "org": true
+  },
+  {
+    "name": "Fixer",
+    "login": "thisisfixer",
+    "avatar": "https://avatars.githubusercontent.com/u/14433035?u=076d52a5b7891c764904af9f462bfb45428e25df&v=4",
+    "amount": 10,
+    "link": "https://github.com/thisisfixer",
+    "org": false
+  },
+  {
+    "name": "Roboflow",
+    "login": "roboflow",
+    "avatar": "https://avatars.githubusercontent.com/u/53104118?v=4",
+    "amount": 10,
+    "link": "https://github.com/roboflow",
+    "org": true
+  },
+  {
+    "name": "Yaal Coop",
+    "login": "yaal-coop",
+    "avatar": "https://avatars.githubusercontent.com/u/7792703?v=4",
+    "amount": 10,
+    "link": "https://github.com/yaal-coop",
+    "org": true
+  },
+  {
+    "name": "Birk Jernström",
+    "login": "birkjernstrom",
+    "avatar": "https://avatars.githubusercontent.com/u/281715?u=0dbf6988068b5c465d3985183cd861e8ce9836be&v=4",
+    "amount": 5,
+    "link": "https://github.com/birkjernstrom",
+    "org": false
+  },
+  {
+    "name": "Ecosystems",
+    "login": "ecosyste-ms",
+    "avatar": "https://avatars.githubusercontent.com/u/98474690?v=4",
+    "amount": -1,
+    "link": "https://github.com/ecosyste-ms",
+    "org": true
+  },
+  {
+    "name": null,
+    "login": "martin68",
+    "avatar": "https://avatars.githubusercontent.com/u/6174552?v=4",
+    "amount": -1,
+    "link": "https://github.com/martin68",
+    "org": false
+  },
+  {
+    "name": "Microsoft",
+    "login": "microsoft",
+    "avatar": "https://avatars.githubusercontent.com/u/6154722?v=4",
+    "amount": -1,
+    "link": "https://github.com/microsoft",
+    "org": true
+  },
+  {
+    "name": "Redbot",
+    "login": "Redbot",
+    "avatar": "https://avatars.githubusercontent.com/u/4406896?u=04cd2d810e8c4f4e0f507cf63c34dc2f2161b2a2&v=4",
+    "amount": -1,
+    "link": "https://github.com/Redbot",
+    "org": false
+  },
+  {
+    "name": "Litestar",
+    "login": "litestar-org",
+    "avatar": "https://avatars.githubusercontent.com/u/97250344?v=4",
+    "amount": -1,
+    "link": "https://github.com/litestar-org",
+    "org": true
+  },
+  {
+    "name": "Lydia",
+    "login": "madebylydia",
+    "avatar": "https://avatars.githubusercontent.com/u/61093863?v=4",
+    "amount": -1,
+    "link": "https://github.com/madebylydia",
+    "org": false
+  },
+  {
+    "name": "Adam Hill",
+    "login": "adamghill",
+    "avatar": "https://avatars.githubusercontent.com/u/317045?u=f1349d5ffe84a19f324e204777859fbf69ddf633&v=4",
+    "amount": -1,
+    "link": "https://github.com/adamghill",
+    "org": false
+  },
+  {
+    "name": "Jacob Coffee",
+    "login": "JacobCoffee",
+    "avatar": "https://avatars.githubusercontent.com/u/45884264?u=273df570e5f3876e680e8ef91883a4748e8033fb&v=4",
+    "amount": -1,
+    "link": "https://github.com/JacobCoffee",
+    "org": false
+  },
+  {
+    "name": "Rafał Pitoń",
+    "login": "rafalp",
+    "avatar": "https://avatars.githubusercontent.com/u/750553?u=12e50e4db9e36ef1c8418822c6ecfecfbb86920b&v=4",
+    "amount": -1,
+    "link": "https://github.com/rafalp",
+    "org": false
+  },
+  {
+    "name": "Kraken Tech",
+    "login": "kraken-tech",
+    "avatar": "https://avatars.githubusercontent.com/u/105941848?v=4",
+    "amount": -1,
+    "link": "https://github.com/kraken-tech",
+    "org": true
+  },
+  {
+    "name": "Allen",
+    "login": "allen0125",
+    "avatar": "https://avatars.githubusercontent.com/u/1448456?u=a255ab49506a0dc98666a0e14aee4a88a8968da8&v=4",
+    "amount": -1,
+    "link": "https://github.com/allen0125",
+    "org": false
+  },
+  {
+    "name": "Hyunwoo Park",
+    "login": "lqez",
+    "avatar": "https://avatars.githubusercontent.com/u/579366?v=4",
+    "amount": -1,
+    "link": "https://github.com/lqez",
+    "org": false
+  },
+  {
+    "name": "Jeff Heaton",
+    "login": "jeffheaton",
+    "avatar": "https://avatars.githubusercontent.com/u/462761?u=d7afac094794432225cab9a32d6cc59c20055d17&v=4",
+    "amount": -1,
+    "link": "https://github.com/jeffheaton",
+    "org": false
+  },
+  {
+    "name": "GitHub",
+    "login": "github",
+    "avatar": "https://avatars.githubusercontent.com/u/9919?v=4",
+    "amount": -1,
+    "link": "https://github.com/github",
+    "org": true
+  },
+  {
+    "name": "Around",
+    "login": "around",
+    "avatar": "https://avatars.githubusercontent.com/u/62425723?v=4",
+    "amount": -1,
+    "link": "https://github.com/around",
+    "org": true
+  },
+  {
+    "name": "Malik Piara",
+    "login": "malikpiara",
+    "avatar": "https://avatars.githubusercontent.com/u/6923650?u=622fae3f00decc804a16f53db543f493c92d50c2&v=4",
+    "amount": -1,
+    "link": "https://github.com/malikpiara",
+    "org": false
+  },
+  {
+    "name": "Jun",
+    "login": "junnplus",
+    "avatar": "https://avatars.githubusercontent.com/u/8097526?u=1775385fd06c9529a6c625173c2192ed171a27d0&v=4",
+    "amount": -1,
+    "link": "https://github.com/junnplus",
+    "org": false
+  },
+  {
+    "name": "Indeed Engineering",
+    "login": "indeedeng",
+    "avatar": "https://avatars.githubusercontent.com/u/2905043?v=4",
+    "amount": -1,
+    "link": "https://github.com/indeedeng",
+    "org": true
+  },
+  {
+    "name": null,
+    "login": "sentry",
+    "avatar": "https://avatars.githubusercontent.com/u/20731068?v=4",
+    "amount": -1,
+    "link": "https://github.com/sentry",
+    "org": false
+  },
+  {
+    "name": "Callam",
+    "login": "callamd",
+    "avatar": "https://avatars.githubusercontent.com/u/1664656?u=9aa1f77281fd4461d13649a8d03c9e9d479b14ed&v=4",
+    "amount": -1,
+    "link": "https://github.com/callamd",
+    "org": false
+  },
+  {
+    "name": "Aveline",
+    "login": "ym",
+    "avatar": "https://avatars.githubusercontent.com/u/352441?v=4",
+    "amount": -1,
+    "link": "https://github.com/ym",
+    "org": false
+  }
+]

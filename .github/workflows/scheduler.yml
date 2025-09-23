@@ -1,0 +1,35 @@
+name: Scheduler
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  updates:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Update possts
+        uses: sarisia/actions-readme-feed@v1
+        with:
+          url: 'https://lepture.com/en/feed.xml'
+          file: 'README.md'
+          max_entry: 2
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - run: npm run build
+        env:
+          SPONSORKIT_GITHUB_TOKEN: ${{ secrets.SPONSORKIT_GITHUB_TOKEN }}
+          SPONSORKIT_GITHUB_LOGIN: lepture
+
+      - uses: EndBug/add-and-commit@v9
+        with:
+          default_author: github_actions
+          message: 'chore: update by scheduler'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -1,0 +1,12 @@
+{
+  "name": "private",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "sponsorkit"
+  },
+  "devDependencies": {
+    "@types/node": "^24.5.2",
+    "sponsorkit": "^17.0.0"
+  }
+}
