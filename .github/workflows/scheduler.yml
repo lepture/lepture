@@ -11,18 +11,15 @@ jobs:
     steps:
       - uses: actions/checkout@v5
 
-      - name: Update possts
-        uses: sarisia/actions-readme-feed@v1
-        with:
-          url: 'https://lepture.com/en/feed.xml'
-          file: 'README.md'
-          max_entry: 2
-
       - uses: actions/setup-node@v4
         with:
           node-version: 22
 
-      - run: npm run build
+      - name: Update posts
+        run: node scripts/update-posts.mjs
+
+      - name: Update sponsors
+        run: npm run build
         env:
           SPONSORKIT_GITHUB_TOKEN: ${{ secrets.SPONSORKIT_GITHUB_TOKEN }}
           SPONSORKIT_GITHUB_LOGIN: lepture

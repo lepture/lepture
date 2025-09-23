@@ -1,6 +1,7 @@
-[me](https://lepture.com/) / [tweets](https://x.com/lepture) / [sponsor](https://github.com/sponsors/lepture)
+[me](https://lepture.com/) . [tweets](https://x.com/lepture) . [sponsor](https://github.com/sponsors/lepture)
 
-## [Recent posts](https://lepture.com/)
+## Recent posts
+<!-- posts -->
 
-<!-- feed start -->
-<!-- feed end -->
+- [Markdown on ruby markup](https://lepture.com/en/2022/markdown-ruby-markup)
+- [Display country flags emoji on Windows](https://lepture.com/en/2022/windows-country-flags-emoji)
