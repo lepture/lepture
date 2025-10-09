@@ -32,14 +32,6 @@
     "org": false
   },
   {
-    "name": "Fixer",
-    "login": "thisisfixer",
-    "avatar": "https://avatars.githubusercontent.com/u/14433035?u=076d52a5b7891c764904af9f462bfb45428e25df&v=4",
-    "amount": 10,
-    "link": "https://github.com/thisisfixer",
-    "org": false
-  },
-  {
     "name": "Roboflow",
     "login": "roboflow",
     "avatar": "https://avatars.githubusercontent.com/u/53104118?v=4",
@@ -61,6 +53,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/281715?u=0dbf6988068b5c465d3985183cd861e8ce9836be&v=4",
     "amount": 5,
     "link": "https://github.com/birkjernstrom",
+    "org": false
+  },
+  {
+    "name": "Fixer",
+    "login": "thisisfixer",
+    "avatar": "https://avatars.githubusercontent.com/u/14433035?u=076d52a5b7891c764904af9f462bfb45428e25df&v=4",
+    "amount": -1,
+    "link": "https://github.com/thisisfixer",
     "org": false
   },
   {
