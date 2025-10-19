@@ -208,7 +208,7 @@
     "org": true
   },
   {
-    "name": null,
+    "name": "Sentry",
     "login": "sentry",
     "avatar": "https://avatars.githubusercontent.com/u/20731068?v=4",
     "amount": -1,
