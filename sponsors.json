@@ -24,14 +24,6 @@
     "org": true
   },
   {
-    "name": "Justin Ross",
-    "login": "ssorj",
-    "avatar": "https://avatars.githubusercontent.com/u/1463232?v=4",
-    "amount": 25,
-    "link": "https://github.com/ssorj",
-    "org": false
-  },
-  {
     "name": "Roboflow",
     "login": "roboflow",
     "avatar": "https://avatars.githubusercontent.com/u/53104118?v=4",
@@ -53,6 +45,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/281715?u=0dbf6988068b5c465d3985183cd861e8ce9836be&v=4",
     "amount": 5,
     "link": "https://github.com/birkjernstrom",
+    "org": false
+  },
+  {
+    "name": "Justin Ross",
+    "login": "ssorj",
+    "avatar": "https://avatars.githubusercontent.com/u/1463232?v=4",
+    "amount": -1,
+    "link": "https://github.com/ssorj",
     "org": false
   },
   {
