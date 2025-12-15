@@ -16,14 +16,6 @@
     "org": false
   },
   {
-    "name": "Codeureuses en Liberté",
-    "login": "CodeursenLiberte",
-    "avatar": "https://avatars.githubusercontent.com/u/35535187?v=4",
-    "amount": 70,
-    "link": "https://github.com/CodeursenLiberte",
-    "org": true
-  },
-  {
     "name": "Roboflow",
     "login": "roboflow",
     "avatar": "https://avatars.githubusercontent.com/u/53104118?v=4",
@@ -69,6 +61,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/98474690?v=4",
     "amount": -1,
     "link": "https://github.com/ecosyste-ms",
+    "org": true
+  },
+  {
+    "name": "Codeureuses en Liberté",
+    "login": "CodeursenLiberte",
+    "avatar": "https://avatars.githubusercontent.com/u/35535187?v=4",
+    "amount": -1,
+    "link": "https://github.com/CodeursenLiberte",
     "org": true
   },
   {
