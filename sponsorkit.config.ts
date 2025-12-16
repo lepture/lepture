@@ -62,6 +62,7 @@ export default defineConfig({
   },
 
   onSponsorsAllFetched(sponsors) {
+    // via Polar
     sponsors.unshift({
       monthlyDollars: 100,
       privacyLevel: 'PUBLIC',
@@ -70,6 +71,41 @@ export default defineConfig({
         login: 'polarsource',
         linkUrl: 'https://polar.sh/',
         avatarUrl: 'https://avatars.githubusercontent.com/u/105373340?s=200&v=4',
+        type: 'Organization',
+      },
+    })
+
+    // via Thanks Dev
+    sponsors.unshift({
+      monthlyDollars: 40,
+      privacyLevel: 'PUBLIC',
+      sponsor: {
+        name: 'Sentry',
+        login: 'getsentry',
+        linkUrl: 'https://sentry.io',
+        avatarUrl: 'https://avatars.githubusercontent.com/u/1396951?s=200&v=4',
+        type: 'Organization',
+      },
+    })
+    sponsors.unshift({
+      monthlyDollars: 10,
+      privacyLevel: 'PUBLIC',
+      sponsor: {
+        name: 'Codecov',
+        login: 'codecov',
+        linkUrl: 'https://codecov.io/',
+        avatarUrl: 'https://avatars.githubusercontent.com/u/8226205?s=200&v=4',
+        type: 'Organization',
+      },
+    })
+    sponsors.unshift({
+      monthlyDollars: 20,
+      privacyLevel: 'PUBLIC',
+      sponsor: {
+        name: 'Canonical',
+        login: 'canonical',
+        linkUrl: 'https://canonical.com/',
+        avatarUrl: 'https://avatars.githubusercontent.com/u/53057619?s=200&v=4',
         type: 'Organization',
       },
     })
