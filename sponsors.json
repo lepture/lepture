@@ -16,6 +16,22 @@
     "org": false
   },
   {
+    "name": "Sentry",
+    "login": "getsentry",
+    "avatar": "https://avatars.githubusercontent.com/u/1396951?s=200&v=4",
+    "amount": 40,
+    "link": "https://sentry.io",
+    "org": true
+  },
+  {
+    "name": "Canonical",
+    "login": "canonical",
+    "avatar": "https://avatars.githubusercontent.com/u/53057619?s=200&v=4",
+    "amount": 20,
+    "link": "https://canonical.com/",
+    "org": true
+  },
+  {
     "name": "Roboflow",
     "login": "roboflow",
     "avatar": "https://avatars.githubusercontent.com/u/53104118?v=4",
@@ -29,6 +45,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/7792703?v=4",
     "amount": 10,
     "link": "https://github.com/yaal-coop",
+    "org": true
+  },
+  {
+    "name": "Codecov",
+    "login": "codecov",
+    "avatar": "https://avatars.githubusercontent.com/u/8226205?s=200&v=4",
+    "amount": 10,
+    "link": "https://codecov.io/",
     "org": true
   },
   {
