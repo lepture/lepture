@@ -50,6 +50,7 @@ export default defineConfig({
               login: i.sponsor.login,
               avatar: i.sponsor.avatarUrl,
               amount: i.monthlyDollars,
+              isOneTime: i.isOneTime,
               link: i.sponsor.linkUrl || i.sponsor.websiteUrl,
               org: i.sponsor.type === 'Organization'
             }
