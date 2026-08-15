@@ -34,6 +34,15 @@
     "org": true
   },
   {
+    "name": "Shin-Rong Tsai",
+    "login": "cindytsai",
+    "avatar": "https://avatars.githubusercontent.com/u/6188366?u=dc37c278a087f415856ff8ae1d4d98fe5640f052&v=4",
+    "amount": 25,
+    "isOneTime": true,
+    "link": "https://github.com/cindytsai",
+    "org": false
+  },
+  {
     "name": "Canonical",
     "login": "canonical",
     "avatar": "https://avatars.githubusercontent.com/u/53057619?s=200&v=4",
