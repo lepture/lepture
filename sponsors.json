@@ -17,6 +17,14 @@
     "org": false
   },
   {
+    "name": "E-ICEBLUE",
+    "login": "e-iceblue",
+    "avatar": "https://cdn.jsdelivr.net/gh/lepture/lepture/static/e-iceblue.svg",
+    "amount": 80,
+    "link": "https://www.e-iceblue.com/Introduce/office-for-python.html",
+    "org": true
+  },
+  {
     "name": "Sentry",
     "login": "getsentry",
     "avatar": "https://avatars.githubusercontent.com/u/1396951?s=200&v=4",
