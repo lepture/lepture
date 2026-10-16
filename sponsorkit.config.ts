@@ -110,6 +110,19 @@ export default defineConfig({
         type: 'Organization',
       },
     })
+
+    // via PayPal
+    sponsors.unshift({
+      monthlyDollars: 80,
+      privacyLevel: 'PUBLIC',
+      sponsor: {
+        name: 'E-ICEBLUE',
+        login: 'e-iceblue',
+        linkUrl: 'https://www.e-iceblue.com/Introduce/office-for-python.html',
+        avatarUrl: 'https://cdn.jsdelivr.net/gh/lepture/lepture/static/e-iceblue.svg',
+        type: 'Organization',
+      },
+    })
     return sponsors
   },
 
