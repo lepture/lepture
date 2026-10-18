@@ -123,6 +123,19 @@ export default defineConfig({
         type: 'Organization',
       },
     })
+
+    // my own projects
+    sponsors.unshift({
+      monthlyDollars: 100,
+      privacyLevel: 'PUBLIC',
+      sponsor: {
+        name: 'Prosefly',
+        login: 'prosefly',
+        linkUrl: 'https://prosefly.com/',
+        avatarUrl: 'https://prosefly.com/images/brand/mark.svg',
+        type: 'Organization',
+      },
+    })
     return sponsors
   },
 
