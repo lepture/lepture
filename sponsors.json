@@ -1,5 +1,13 @@
 [
   {
+    "name": "Prosefly",
+    "login": "prosefly",
+    "avatar": "https://prosefly.com/images/brand/mark.svg",
+    "amount": 100,
+    "link": "https://prosefly.com/",
+    "org": true
+  },
+  {
     "name": "Polar",
     "login": "polarsource",
     "avatar": "https://avatars.githubusercontent.com/u/105373340?s=200&v=4",
